@@ -9,16 +9,16 @@ import "bootstrap/dist/js/bootstrap.bundle.js";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 //Importing other necessary child components
-import BooksList from "./Components/Book_Components/BooksList";
-import AuthorsList from "./Components/Author_Components/AuthorsList";
-import AddBookForm from "./Components/Book_Components/AddBookForm";
-import ModifyBooks from "./Components/Book_Components/ModifyBooks";
-import EditBookForm from "./Components/Book_Components/EditBookForm";
-import AddAuthorForm from "./Components/Author_Components/AddAuthorForm";
-import ModifyAuthors from "./Components/Author_Components/ModifyAuthors";
-import EditAuthorForm from "./Components/Author_Components/EditAuthorForm";
-import Navbar from "./Components/Basic_Components/Navbar";
-import Footer from "./Components/Basic_Components/Footer";
+import BooksList from "./components/Book_Components/BooksList";
+import AuthorsList from "./components/Author_Components/AuthorsList";
+import AddBookForm from "./components/Book_Components/AddBookForm";
+import ModifyBooks from "./components/Book_Components/ModifyBooks";
+import EditBookForm from "./components/Book_Components/EditBookForm";
+import AddAuthorForm from "./components/Author_Components/AddAuthorForm";
+import ModifyAuthors from "./components/Author_Components/ModifyAuthors";
+import EditAuthorForm from "./components/Author_Components/EditAuthorForm";
+import Navbar from "./components/Basic_Components/Navbar";
+import Footer from "./components/Basic_Components/Footer";
 
 function App() {
   return (
