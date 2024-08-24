@@ -1,7 +1,10 @@
-
 # React-Formik-Task
 
-This is an sample Library management website which is based on React-Formik which was designed by me using React. It's Guvi-Zen class Roadmap session: Day-31 and React : Day-11 Task.
+It's Guvi-Zen class Roadmap session: Day-31 and React : Day-11 Task.
+
+Deployed URL : https://formikvalidationdrill.netlify.app
+
+---
 
 ## Tech Stack
 
