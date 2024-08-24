@@ -86,7 +86,7 @@ const AddBookForm = () => {
             validationSchema={validationSchema}
             onSubmit={handleSubmit}
           >
-            <Form className="bg-info my-3 py-3 px-5">
+            <Form className="bg-light my-3 py-3 px-5">
               <h1 className="text-center">Add Book Form</h1>
               <div className="row">
                 <div className="mb-3 col-sm-12 col-lg-12">
